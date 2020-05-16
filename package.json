@@ -1,0 +1,19 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "study note",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subeauty/Blog.git"
+  },
+  "author": "meng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subeauty/Blog/issues"
+  },
+  "homepage": "https://github.com/subeauty/Blog#readme"
+}
